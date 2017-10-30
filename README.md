@@ -87,7 +87,14 @@ En el caso de que yo conozca todas las bacterias presentes y que estén además,
 __1.__ Segun lo visto en el laboratorio, en este caso requerira caracterizar evolutivamente proteinas de la familia de isoprenyl synthetase (5 proteinas) determinando si ¿existe una relacion convergente o divergente entre ellas? ¿porque?, para lo cual debera utilizar las distintas herramientas como las bases de datos uniprot, prosite, pfam, entre otras.
 
 
+Proteínas escogidas:
 
+1 http://pfam.xfam.org/protein/G2KWA7_LACSM
+2 http://pfam.xfam.org/protein/B9DNS2_STACT
+3 http://pfam.xfam.org/protein/K8E4Y2_CARML
+4 http://pfam.xfam.org/protein/G2SNF3_LACRR
+5 http://pfam.xfam.org/protein/I5B722_9DELT
+ 
 
 
 
