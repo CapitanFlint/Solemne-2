@@ -97,17 +97,20 @@ Proteínas escogidas:
  
 
 
+Llegué a estas proteínas a partir de :
+
+
+http://www.uniprot.org/uniprot/Q8KFR6
 
 
 
 
+http://www.uniprot.org/align/A20171030AAFB7E4D2F1D05654627429E83DA5CCED81EC4Y
 
 
 
 
-
-
-
+https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=simple_phylogeny-I20171030-233109-0175-20175557-p1m&analysis=tree
 
 
 
