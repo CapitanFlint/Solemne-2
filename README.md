@@ -91,13 +91,6 @@ __1.__ Segun lo visto en el laboratorio, en este caso requerira caracterizar evo
 
 
 
-
-https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=simple_phylogeny-I20171030-233109-0175-20175557-p1m&analysis=tree
-
-
-
-
-
 Primeramente busqué por isoprenyl sintethase (http://www.uniprot.org/uniprot/Q8KFR6), y en la página Pfam seleccioné al árbol de proteínas, de las cuales seleccioné 5:
 
 
@@ -122,7 +115,7 @@ Primeramente busqué por isoprenyl sintethase (http://www.uniprot.org/uniprot/Q8
 
 
 
-La familia poliprenil sintetasa juega un rol en el procesamiento de los compuestos orgánicos en las células, añadiendo grupos funcionales a estos (código interpro de la familia: IPR000092).
+La familia poliprenil sintetasa juega un rol en el procesamiento de los compuestos orgánicos en las células, añadiendo grupos funcionales a estos (código interpro de la familia: IPR000092, llegué a este código a partir de prosite PDOC00407).
 
 
 
@@ -232,3 +225,34 @@ Luego, seleccioné la opción similarity en el alineamiento, sugiriendo que exis
 
 
 __Imagen 2.__
+
+
+
+Luego, para analizar los patrones fisicoquímicos seleccioné hidrofobicidad y polar al mismo tiempo, y se obtuvo que a pesar de que hay cambios en los aminoácidos de las secuencias, las cualidades polares e hidrofobicas son mantenidas en un nivel alto (Imagen 3.)
+
+
+
+
+![foto3](https://github.com/CapitanFlint/Solemne-2/blob/master/polarhidrofoboo.png)
+
+
+
+
+__Imagen 3.__
+
+
+
+Finalmente, a partir de los resultados pienso que desarrollar una hipótesis de evolución divergente para estas proteínas es lo más adecuado, ya que las similitudes son altas y se encuentran en muchos parámetros diferentes: Poseen todas el mismo dominio según Pfam, el porcentaje de identidad es bastante alto, los dominios son muy conservados, y los patrones fisicoquímicos se mantienen a lo largo de las secuencias. Por lo que pienso que hay información suficiente como para sugerir que este es un caso de evolución divergente, ya que tal porcentaje de identidad y similitud no puede haberse producido solo por chance. Por otra parte, es altamente probable de que el plegamiento espacial de las proteínas sea también muy similar, debido a que mantiene las propiedades estéricas. Finalmente, realicé un árbol filogenético en clustalW (Imagen 4.)
+
+
+
+
+![arbol](https://github.com/CapitanFlint/Solemne-2/blob/master/arbol.png)
+
+
+
+__Imagen 4.__
+
+
+
+
