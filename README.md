@@ -214,6 +214,21 @@ Luego de hacer el alineamiento, me dieron valores muy altos de identidad (19%) y
 
 
 
-![Similitudidentidad](https://github.com/CapitanFlint/Solemne-2/blob/master/similarity7.png)
+![Valores](https://github.com/CapitanFlint/Solemne-2/blob/master/valoresuniprot.png)
 
 
+
+__Imagen 1.__
+
+
+
+Luego, seleccioné la opción similarity en el alineamiento, sugiriendo que existen regiones (dominios) altamente conservadas y que muy probablemente están relacionados con la función. Adicionalmente, se detalla en el alineamiento que estas regiones conservadas poseen los sitios activos y de unión de las enzimas. (Imagen 2).
+
+
+
+
+![Similitud](https://github.com/CapitanFlint/Solemne-2/blob/master/similarity7.png)
+
+
+
+__Imagen 2.__
