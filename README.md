@@ -87,30 +87,17 @@ En el caso de que yo conozca todas las bacterias presentes y que estén además,
 __1.__ Segun lo visto en el laboratorio, en este caso requerira caracterizar evolutivamente proteinas de la familia de isoprenyl synthetase (5 proteinas) determinando si ¿existe una relacion convergente o divergente entre ellas? ¿porque?, para lo cual debera utilizar las distintas herramientas como las bases de datos uniprot, prosite, pfam, entre otras.
 
 
-Proteínas escogidas:
 
-1 http://pfam.xfam.org/protein/G2KWA7_LACSM
-2 http://pfam.xfam.org/protein/B9DNS2_STACT
-3 http://pfam.xfam.org/protein/K8E4Y2_CARML
-4 http://pfam.xfam.org/protein/G2SNF3_LACRR
-5 http://pfam.xfam.org/protein/I5B722_9DELT
- 
-
-
-Llegué a estas proteínas a partir de :
-
-
-http://www.uniprot.org/uniprot/Q8KFR6
-
-
-
-
-http://www.uniprot.org/align/A20171030AAFB7E4D2F1D05654627429E83DA5CCED81EC4Y
 
 
 
 
 https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=simple_phylogeny-I20171030-233109-0175-20175557-p1m&analysis=tree
+
+
+
+
+
 Primeramente busqué por isoprenyl sintethase (http://www.uniprot.org/uniprot/Q8KFR6), y en la página Pfam seleccioné al árbol de proteínas, de las cuales seleccioné 5:
 
 
@@ -218,10 +205,15 @@ LRAIAAYIINRKR
 
 
 
-Hay que destacar que, según Pfam todas las proteínas escogidas poseen el mismo dominio Polyprenyl synthetase (http://pfam.xfam.org/family/PF00348), y que además todas poseen la cualidad de ser transferasas, por lo que luego realicé un alineamiento en uniprot de las secuencias y comparé las diferentes características fisicoquímicas.
+Hay que destacar que, según Pfam todas las proteínas escogidas poseen el mismo dominio Polyprenyl synthetase (http://pfam.xfam.org/family/PF00348), y que además todas poseen la cualidad de ser transferasas, por lo que luego realicé un alineamiento en uniprot de las secuencias y comparé las diferentes características fisicoquímicas. (Es posible de que el trabajo siga en la base de datos al momento de que lo revise http://www.uniprot.org/align/A20171030AAFB7E4D2F1D05654627429E83DA5CCED81EC4Y).
+
+
+
+Luego de hacer el alineamiento, me dieron valores muy altos de identidad (19%) y de similitud (68) (Imagen 1.).
 
 
 
 
+![Similitudidentidad](https://github.com/CapitanFlint/Solemne-2/blob/master/similarity7.png)
 
 
