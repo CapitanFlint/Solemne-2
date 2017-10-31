@@ -111,6 +111,114 @@ http://www.uniprot.org/align/A20171030AAFB7E4D2F1D05654627429E83DA5CCED81EC4Y
 
 
 https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=simple_phylogeny-I20171030-233109-0175-20175557-p1m&analysis=tree
+Primeramente busqué por isoprenyl sintethase (http://www.uniprot.org/uniprot/Q8KFR6), y en la página Pfam seleccioné al árbol de proteínas, de las cuales seleccioné 5:
+
+
+1 http://pfam.xfam.org/protein/G2KWA7_LACSM
+
+
+
+2 http://pfam.xfam.org/protein/B9DNS2_STACT
+
+
+
+3 http://pfam.xfam.org/protein/K8E4Y2_CARML
+
+
+
+4 http://pfam.xfam.org/protein/G2SNF3_LACRR
+
+
+
+5 http://pfam.xfam.org/protein/I5B722_9DELT
+
+
+
+
+La familia poliprenil sintetasa juega un rol en el procesamiento de los compuestos orgánicos en las células, añadiendo grupos funcionales a estos (código interpro de la familia: IPR000092).
+
+
+
+
+Los códigos de las proteínas escogidas son:
+
+1. Geranyltranstransferase, del gen ispA. Código uniprot: G2KWA7. EC:2.5.1.10.Lactobacillus sanfranciscensis. Según gene ontology, posee una función de dimetilalil transferasa.
+
+
+
+Fasta 1. >tr|G2KWA7|G2KWA7_LACSM Geranyltranstransferase OS=Lactobacillus sanfranciscensis (strain TMW 1.1304) GN=ispA PE=3 SV=1
+MLMKFNQKKLNRFQTEYIPKIDAVLSKEIKNSSNENLLVNSMQYSLMAGGKRLRPLLVLA
+VLESYGVKITDELIKISCAVELLHTYSLIHDDLPEMDNSDYRRGKLANHKKFGDDIAVLA
+GDGLLTLAFSWLSDNSLLASQRIKLVSLLSNAAGPKGMVEGQVIDVTSAEKTLDLVGLQT
+LDRKKTGELFHYCILAGSVLAKVDEADQQSLSEFAWNFGIAFQIYDDILDAPTDETQEDI
+DKNTYVNFLGMQGAKTKLSETVENCIKELEKLENAQSIDLLKSFLSYFQFGKG
+
+
+
+
+
+2. Geranyltranstransferase, del gen Sca_1145.EC:2.5.1.10. Código uniprot: B9DNS2. Staphylococcus carnosus. Según gene ontology, posee una función de "dimethylallyltransferase activity", que es la misma en el caso 1.
+
+
+
+Fasta 2. >tr|B9DNS2|B9DNS2_STACT Geranyltranstransferase OS=Staphylococcus carnosus (strain TM300) GN=Sca_1145 PE=3 SV=1
+MNNLIIKQINELLLQSIPLSPLDTNLEESMRYSLEAGGKRIRPLLLIETLKMLSNNSDYS
+KGLQTALALEMVHTYSLIHDDLPAMDNDDYRRGKLTNHKVYGEWKALLAGDALLTKAFHL
+ISTDSLLDAEARIKLVEGLSDASGHLGMIGGQTLDMESENKQIPLETLQQIHKEKTGALL
+TYAIMAAVTIVKPPNEISDILNNYSEHLGLIFQIKDDLLDVYGDEKNLGKPVGSDEKNHK
+NTYVTLLGQVETENKLEYHVNQAETSLAQLKKSGYDTTQLEDLTKLFYKRDH
+
+
+
+
+3. Farnesyl diphosphate synthase, del gen BN424_2190. EC:2.5.1.10.  Código uniprot: K8E4Y2. Carnobacterium maltaromaticum. Según gene ontology, posee la función de geranyltranstransferase activity y que en el primer paso de las reacciones enzimáticas, ocurre dimethylallyltransferase activity, que es la misma en caso 1. y 2.
+
+
+
+Fasta 3. >tr|K8E4Y2|K8E4Y2_CARML Farnesyl diphosphate synthase OS=Carnobacterium maltaromaticum LMA28 GN=BN424_2190 PE=3 SV=2
+MDLNEFKSIALPQLEDTLLEELEIGVPTKGSLFEAMTYSVKAGGKRIRPLLLLATIQSLG
+GNIKSGLLAASALEYIHTYSLIHDDLPAMDDDALRRGQPTNHIIYGEALAILAGDGLLTL
+GFELLAKSPLTEKQKVRLILALSKAAGANGMVVGQVSDMEGESQKLTLTDLQNIHKKKTG
+ELLKFAAYAGAVIVDADQETETQLVKFASHLGLAFQIRDDILDVIGTTAELGKETGMDAV
+HQKSTYPGLLTLAGAKKELAEELAKAQTSLANVDNKSVADTQLLEDFITLLEI
+
+
+
+
+4. Geranylgeranyl pyrophosphate synthase, del gen LRC_08340. Código uniprot: G2SNF3. Lactobacillus ruminis. Según gene ontology, posee la función de "transferase activity".
+
+
+
+Fasta 4. >tr|G2SNF3|G2SNF3_LACRR Geranylgeranyl pyrophosphate synthase OS=Lactobacillus ruminis (strain ATCC 27782 / RF3) GN=LRC_08340 PE=3 SV=1
+MTMNNSELDNFQAEFLPLLNERMDVYLQQLNTRKTLHDSMSYSVDAGGKRIRPMIIMLVC
+DSFKKKIDQDVLDVCASLEFVHTYSLIHDDLPAMDNDELRRGKATNHVVFGESMAILAGD
+GLLTTAFECLGQTSISAKTKCTLMSRLAFAAGPQGMVNGQVGDIENEGVKLTLPQLRNVH
+AQKTGALLRYAFESGGILAGVSDRALGELKELGNCFGLAFQIYDDIMDVVSTPEEMGKAT
+HKDQSEHKNTYPGLLGLDGAYEELEKAKANAKAHLEVLAEEFGAKTMLLEELLNYFKAGK
+N
+
+
+
+
+
+5. Geranylgeranyl pyrophosphate synthase, del gen DespoDRAFT_03527. Código uniprot: I5B722. Desulfobacter postgatei. Según gene ontology, posee la función de "transferase activity".
+
+
+
+
+Fasta 5. >tr|I5B722|I5B722_9DELT Geranylgeranyl pyrophosphate synthase OS=Desulfobacter postgatei 2ac9 GN=DespoDRAFT_03527 PE=3 SV=1
+MKTFDLSGYLSRNRKLVDDALATVFDEFDRQRELVQAMTHSLMAGGKRVRPALALATADA
+LGADPLIALPASCAIEMIHTYSLIHDDLPGMDDDDLRRGVPTCHKQFSEATAILAGDGLL
+THAFHILAAPMTCFKVFPDAETRLILVEKISAAAGINGMVEGQMLDMQAEKNPENLPSDS
+PGVLTHLKKIHRHKTGAMIEVSVASGAISAGADPDALNALGTYAQNIGLAFQVMDDILNV
+IGDPKIMGKAAGTDALHDKMTFPAILGLEESKAFSRQLVADALEALDSYGEKEFKKNSEP
+LRAIAAYIINRKR
+
+
+
+
+
+Hay que destacar que, según Pfam todas las proteínas escogidas poseen el mismo dominio Polyprenyl synthetase (http://pfam.xfam.org/family/PF00348), y que además todas poseen la cualidad de ser transferasas, por lo que luego realicé un alineamiento en uniprot de las secuencias y comparé las diferentes características fisicoquímicas.
 
 
 
