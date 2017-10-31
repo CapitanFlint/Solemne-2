@@ -28,7 +28,6 @@ __1.__ Usted trabaja como asistente de investigacion en el centro de bioinformat
 
 
 
-__R:__
 
 
 
